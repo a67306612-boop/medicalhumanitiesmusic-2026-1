@@ -8,7 +8,7 @@ ICD:
 
 # A beautiful mind
 
-The film *Beautiful Mind* (2002), directed by Ron Howard, depicts the life of a mathematician suffering from schizophrenia. The music "A Kaleidoscope of Mathematics" used in this film was composed by composer James Horner. The music of the film acts as a device that directly reveals the mental state of the protagonist, not just a background. In particular, the repeated and gradually stacked melody structure expresses the order of mathematical thinking and the increasingly uncontrollable confusion of the mind, making the audience experience the inner world of John Nash - a world in which reality and fantasy are mixed - with each other sensibly.
+The film *Beautiful Mind* (2002), directed by Ron Howard, depicts the life of a mathematician suffering from schizophrenia. The music "A Kaleidoscope of Mathematics" used in this film was composed by composer James Horner. The music of the film acts as a device that directly reveals the mental state of the protagonist, not just a background. In particular, the repeated and gradually stacked melody structure expresses the order of mathematical thinking and the increasingly uncontrollable confusion of the mind, making the audience experience the inner world of John Nash - a world in which reality and fantasy are mixed - with each other sensibly. 
 
 # 뷰티풀 마인드
 
