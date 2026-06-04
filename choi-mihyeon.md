@@ -2,6 +2,7 @@
 Title: The Theory of Everything
 Year: 2014
 Genre: Film
+Creator: "James Marsh"
 Disease: Lou Gehrig's disease
 ICD: 8B60.0
 ---
