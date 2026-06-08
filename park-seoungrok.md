@@ -1,8 +1,8 @@
 ---
 Title: Even If This Love Disappears from the World Tonight
 Year: 2020
-Genre: novel
-Disease: anterograde amnesia
+Genre: Novel
+Disease: Anterograde amnesia
 ICD: MB21.10
 ---
 
